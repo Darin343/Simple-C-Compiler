@@ -1,7 +1,7 @@
 /*
  * File:	checker.cpp
  *
- * Description:	Not sure
+ * Description:	Performs semantic checks, and reports errors E1-E4 to std err
  *		
  */
 
